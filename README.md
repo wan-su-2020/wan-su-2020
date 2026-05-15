@@ -57,7 +57,7 @@
 ### 🚀 Projects
 
 #### **1. 스마트 화분 (Smart Flower Pot)** 
-*센서를 사용하여 대기 오염을 측정하고 이를 화분 및 앱으로 표현 | SP!ED 2025 Bronze Award 수상*
+*센서를 사용하여 대기 오염을 측정하고 이를 화분의 디스플레이 및 앱으로 표현 | SP!ED 2025 Bronze Award 수상*
 * **Duration**: Jan 2025 – Nov 2025
 * **Role**: 조장/전체적인 workflow 및 앱 구현과 앱과 센서 간의 데이터 통신 및 통합 담당
 * **Key Achievement**: 
