@@ -1,5 +1,5 @@
 
-
+/*
 <div align="center">
   <!-- 깔끔한 익명 개발자 캐릭터 이미지 -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="160" height="160" />
@@ -86,4 +86,5 @@
 * 🗣 **TOEIC Speaking AL (Advanced Low)**
 
 ---
+*/
 
